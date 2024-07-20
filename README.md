@@ -1,3 +1,13 @@
+
+# Passed All TestCases
+
+```rust
+go test -v
+```
+
+![template](.github/testcases.png)
+
+
 # Tutero Assignment
 
 **Please create a template from this repository!**
